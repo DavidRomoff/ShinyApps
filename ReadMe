@@ -1,0 +1,5 @@
+
+Each R Shiny app here is GUI that builds on other GUIs.
+Yahoo Download - gets data from yahoo finance
+Transform - transforms prices to returns
+Hedge - finds betas for hedging
