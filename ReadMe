@@ -1,5 +1,41 @@
 
-Each R Shiny app here is GUI that builds on other GUIs.
+Current GUI Blocks:
 Yahoo Download - gets data from yahoo finance
 Transform - transforms prices to returns
 Hedge - finds betas for hedging
+
+GUI Blocks to build:
+
+Data Tools:
+API Builder: FRED, Twitter, LinkedIn, Interactive Brokers
+
+Visualization Tools:
+Mosaic Plotter: Titanic, Market Returns
+
+Risk Analytics:
+Bond Duration and Convexity Calculator
+Black Scholes Calculator with Implied Vol Estimator
+VaR Calculator - Portfolio, Marginal, Incremental, ES
+Rolling Portfolio Metrics - vol, beta
+Futures Hedging - Best Window
+Cost of Liquidation Estimator
+Kelly Criterion Calculator
+Monte Carlo Simulator
+Transition Matrix Tool
+Credit Metrics Demo
+Credit Metrics Code
+Correlated Default Risk Simulator
+Spread 2 PD Estimator
+PD 2 Spread Estimator
+Wrong Way Risk Simulator
+Credit Value Adjustment
+EWMA
+
+Pure Analytics:
+Regression Analytics
+Logistic Regression
+Logistic Regression Risk: Regress, Param Risk Sim, KMeans, Process Risk, Backtest
+Optimal Portfolio: Simulation
+Factor Builder: APT, Cross Sectional Regression
+Time Series Fitter with ARMAX
+Multi Time Series Fitter with VAR
